@@ -1,2 +1,3 @@
 My text
 more text added
+Another line
